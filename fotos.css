@@ -48,3 +48,14 @@ ul {
     vertical-align: top;
     margin-right: 15%;
 }
+
+#galeria {
+  width: 20%
+}
+
+.fotos li {
+  display: inline-block;
+  text-align: center;
+  padding: 30px 20px;
+
+}
