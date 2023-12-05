@@ -1,0 +1,23 @@
+body {
+
+}
+
+#banner {
+    width: 100%;
+}
+
+.princípal {
+	    background: #CCCCCC;
+      padding: 30px;
+}
+
+.titulo-centralizado{
+	  text-align: center;
+    font-size: 30px;
+
+}
+
+p {
+    font-size: 18px;
+	  text-align: center
+}
