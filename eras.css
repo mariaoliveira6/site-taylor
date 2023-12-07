@@ -17,3 +17,11 @@ titulo-princípal {
 #eras {
    width: 20%;
 }
+
+.d-flex {
+  display: flex;
+}
+
+img,p {
+  padding: 10px
+}
